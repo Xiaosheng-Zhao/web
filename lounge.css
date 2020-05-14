@@ -1,11 +1,14 @@
-		body {
-			background-color: #d2b48c;
-			border: 2px dotted black;
-			padding: 10px 10px 10px 10px;
-			font-family: sans-serif;
-		}
-		p {
-			color: maroon;		}	
-		h1, h2 {			font-family: sans-serif;			color: #cc6600;		}
-		h1 {		border-bottom: 2px solid black;		}
-		h2 {		border-bottom: 1px solid black;		}
+body {
+	background-color: #d2b48c;
+	border: 2px dotted black;
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+}
+p {
+	color: maroon;}	
+h1, h2 {	font-family: sans-serif;	color: #cc6600;}
+h1 {border-bottom: 2px solid black;}
+h2 {border-bottom: 1px solid black;}
+.words {line-height: 1.9em;font-style: italic;font-family: Georgia, "Times New Roman", Times, serif;color: maroon;border-color: white;border-width: 1px;border-style: dashed;background-color: #d2b48c;padding: 25px;
+padding-left: 80px;margin: 30px;
+margin-right: 250px;background-image: url(photos/background.gif);background-repeat: no-repeat;background-position: top left;}
